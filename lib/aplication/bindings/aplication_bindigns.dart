@@ -27,4 +27,5 @@ class AplicationBindigns implements Bindings {
         () => MoviesServiceImpl(moviesRepository: Get.find()),
         fenix: true);
   }
+  //marvel
 }
